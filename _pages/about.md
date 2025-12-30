@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: TUM Global Post-doctoral Researcher @<a href='https://www.mos.ed.tum.de/en/avs/home/'>AVS Lab</a>, Technical University of Munich (Germany)
 
 profile:
   align: right
   image: mattia_piccinini.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Mattia Piccinini, a TUM Global Post-doctoral Researcher at the <a href='https://www.mos.ed.tum.de/en/avs/home/'>Autonomous Vehicle Systems (AVS) Lab</a>, Technical University of Munich (TUM), Germany. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of **robotics**, **machine learning**, and **control** engineering. I develop algorithms for real-time trajectory planning, control, and estimation of autonomous robots, with a focus on **ground vehicles** in uncertain, dynamic environments. 
+I like to integrate prior knowledge of the robot dynamics into learning-based methods, such as neural networks, to enhance their **generalization to unseen scenarios** with minimal training data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Are you passionate about AI-robotics research? Then reach out to me to collaborate!
