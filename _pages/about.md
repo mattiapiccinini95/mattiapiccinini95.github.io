@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -32,4 +32,4 @@ Hi! I am Mattia Piccinini, a TUM Global Post-doctoral Researcher at the <a href=
 My research lies at the intersection of **robotics**, **machine learning**, and **control** engineering. I develop algorithms for real-time trajectory planning, control, and estimation of autonomous robots, with a focus on **ground vehicles** in uncertain, dynamic environments. 
 I like to integrate prior knowledge of the robot dynamics into learning-based methods, such as neural networks, to enhance their **generalization to unseen scenarios** with minimal training data.
 
-Are you passionate about AI-robotics research? Then reach out to me to collaborate!
+Are you passionate about AI-robotics research? :robot:<br>Then **reach out to me** to collaborate! :rocket: 
