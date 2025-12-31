@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-12-01 10:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+:trophy: I was awarded the [Humboldt Post-doctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship), which will enable me to continue my research at the [Autonomous Vehicle Systems Lab](https://www.mos.ed.tum.de/en/avs/home/), Technical University of Munich, Germany!
