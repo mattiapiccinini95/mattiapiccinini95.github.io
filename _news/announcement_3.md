@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: I was awarded the [Humboldt Post-doctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship), which will enable me to continue my research at the [Autonomous Vehicle Systems Lab](https://www.mos.ed.tum.de/en/avs/home/), Technical University of Munich, Germany!
+:trophy: I was awarded the [Humboldt Post-doctoral Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) at the [Autonomous Vehicle Systems Lab](https://www.mos.ed.tum.de/en/avs/home/), Technical University of Munich, Germany! :de:
