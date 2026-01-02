@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: The students and researchers I have co-supervised.
+description: The students and researchers I have supervised.
 nav: true
 nav_order: 7
 
