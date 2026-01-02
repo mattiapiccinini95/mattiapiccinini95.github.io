@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 #subtitle: TUM Global Post-doctoral Researcher @<a href='https://www.mos.ed.tum.de/en/avs/home/'>AVS Lab</a>, Technical University of Munich (Germany)
 
@@ -31,5 +31,7 @@ Hi! I am Mattia Piccinini, a TUM Global Post-doctoral Researcher at the <a href=
 
 My research lies at the intersection of **robotics**, **machine learning**, and **control** engineering. I develop algorithms for real-time trajectory planning, control, and estimation of autonomous robots, with a focus on **ground vehicles** in uncertain, dynamic environments. 
 I like to integrate prior knowledge of the robot dynamics into learning-based methods, such as neural networks, to enhance their **generalization to unseen scenarios** with minimal training data.
+
+A 3-minute video presentation of my Ph.D. research is available [here](https://youtu.be/sdoO9i480ZY).
 
 Are you passionate about AI-robotics research? :robot:<br>Then **reach out to me** to collaborate! :rocket: 
