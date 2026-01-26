@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-01-26'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -10,7 +10,7 @@ papers:
     title: A predictive neural hierarchical framework for on-line time-optimal motion planning and control of black-box vehicle models
     year: '2023'
   xtgKwEoAAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: 'Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning'
     year: '2025'
   xtgKwEoAAAAJ:5nxA0vEk-isC:
@@ -70,7 +70,7 @@ papers:
     title: Computationally efficient minimum-time motion primitives for vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:Y0pCki6q_DkC:
-    citations: 10
+    citations: 11
     title: 'Reinforcement Learning and Optimal Control: A Hybrid Collision Avoidance Approach'
     year: '2024'
   xtgKwEoAAAAJ:YOwf2qJgpHMC:
@@ -94,7 +94,7 @@ papers:
     title: Google Custom Search
     year: Unknown Year
   xtgKwEoAAAAJ:eQOLeE2rZwMC:
-    citations: 12
+    citations: 13
     title: How optimal is the minimum-time manoeuvre of an artificial race driver?
     year: '2025'
   xtgKwEoAAAAJ:hqOjcs7Dif8C:
