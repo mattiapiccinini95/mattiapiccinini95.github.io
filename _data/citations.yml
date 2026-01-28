@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-28'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
-    citations: 4
+    citations: 5
     title: 'From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios'
     year: '2025'
   xtgKwEoAAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: PATH PLANNING AND CONTROL OF SELF-DRIVING VEHICLES AT THE LIMITS OF HANDLING
     year: Unknown Year
   xtgKwEoAAAAJ:IjCSPb-OGe4C:
-    citations: 20
+    citations: 21
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
@@ -58,7 +58,7 @@ papers:
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 18
+    citations: 19
     title: 'Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis'
     year: '2025'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
