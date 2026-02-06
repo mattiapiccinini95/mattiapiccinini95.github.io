@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-06'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
-    citations: 5
+    citations: 6
     title: 'From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios'
     year: '2025'
   xtgKwEoAAAAJ:2osOgNQ5qMEC:
@@ -13,6 +13,10 @@ papers:
     citations: 1
     title: 'Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning'
     year: '2025'
+  xtgKwEoAAAAJ:4TOpqqG69KYC:
+    citations: 0
+    title: 'EVO-MPCC: Enhanced Velocity Optimization with Learning-Based Auto-Tuning for Real-Time Vehicle Trajectory Planning'
+    year: Unknown Year
   xtgKwEoAAAAJ:5nxA0vEk-isC:
     citations: 1
     title: 'MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks'
@@ -26,11 +30,11 @@ papers:
     title: PATH PLANNING AND CONTROL OF SELF-DRIVING VEHICLES AT THE LIMITS OF HANDLING
     year: Unknown Year
   xtgKwEoAAAAJ:IjCSPb-OGe4C:
-    citations: 21
+    citations: 22
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
-    citations: 0
+    citations: 1
     title: Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints
     year: '2025'
   xtgKwEoAAAAJ:LkGwnXOMwfcC:
@@ -58,7 +62,7 @@ papers:
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 19
+    citations: 20
     title: 'Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis'
     year: '2025'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
@@ -66,7 +70,7 @@ papers:
     title: Impacts of ggv constraints formulations on online minimum-time vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:WF5omc3nYNoC:
-    citations: 12
+    citations: 13
     title: Computationally efficient minimum-time motion primitives for vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:Y0pCki6q_DkC:
@@ -94,7 +98,7 @@ papers:
     title: Google Custom Search
     year: Unknown Year
   xtgKwEoAAAAJ:eQOLeE2rZwMC:
-    citations: 13
+    citations: 14
     title: How optimal is the minimum-time manoeuvre of an artificial race driver?
     year: '2025'
   xtgKwEoAAAAJ:hqOjcs7Dif8C:
@@ -114,7 +118,7 @@ papers:
     title: Biasing the Driving Style of an Artificial Race Driver for Online Time-Optimal Maneuver Planning
     year: '2025'
   xtgKwEoAAAAJ:u-x6o8ySG0sC:
-    citations: 47
+    citations: 50
     title: Real-time optimal control of an autonomous RC car with minimum-time maneuvers and a novel kineto-dynamical model
     year: '2020'
   xtgKwEoAAAAJ:u5HHmVD_uO8C:
@@ -122,7 +126,7 @@ papers:
     title: Localization and Control of Autonomous Vehicles in an Urban Intersection Scenario
     year: '2019'
   xtgKwEoAAAAJ:ufrVoPGSRksC:
-    citations: 2
+    citations: 3
     title: Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits
     year: '2025'
   xtgKwEoAAAAJ:zYLM7Y9cAGgC:
