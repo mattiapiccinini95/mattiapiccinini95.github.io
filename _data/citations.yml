@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-09'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -30,7 +30,7 @@ papers:
     title: PATH PLANNING AND CONTROL OF SELF-DRIVING VEHICLES AT THE LIMITS OF HANDLING
     year: Unknown Year
   xtgKwEoAAAAJ:IjCSPb-OGe4C:
-    citations: 22
+    citations: 23
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
@@ -62,7 +62,7 @@ papers:
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 20
+    citations: 19
     title: 'Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis'
     year: '2025'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
