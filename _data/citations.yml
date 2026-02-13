@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-13'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -62,7 +62,7 @@ papers:
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 19
+    citations: 20
     title: 'Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis'
     year: '2025'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
