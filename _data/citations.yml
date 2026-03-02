@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-02'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 7
     title: 'From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios'
     year: '2025'
   xtgKwEoAAAAJ:2osOgNQ5qMEC:
-    citations: 26
+    citations: 27
     title: A predictive neural hierarchical framework for on-line time-optimal motion planning and control of black-box vehicle models
     year: '2023'
   xtgKwEoAAAAJ:3fE2CSJIrl8C:
@@ -30,7 +30,7 @@ papers:
     title: PATH PLANNING AND CONTROL OF SELF-DRIVING VEHICLES AT THE LIMITS OF HANDLING
     year: Unknown Year
   xtgKwEoAAAAJ:IjCSPb-OGe4C:
-    citations: 23
+    citations: 25
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
@@ -41,12 +41,16 @@ papers:
     citations: 1
     title: A Quasi-Steady-State Black Box Simulation Approach for the Generation of gggv Diagrams
     year: '2025'
+  xtgKwEoAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: 'Differentiable Weights-Varying Nonlinear MPC via Gradient-based Policy Learning: An Autonomous Vehicle Guidance Example'
+    year: '2026'
   xtgKwEoAAAAJ:MXK_kJrjxJIC:
     citations: 1
     title: Enhancing Physical Consistency in Lightweight World Models
     year: '2025'
   xtgKwEoAAAAJ:Se3iqnhoufwC:
-    citations: 2
+    citations: 3
     title: A Road Friction-Aware Anti-Lock Braking System Based on Model-Structured Neural Networks
     year: '2025'
   xtgKwEoAAAAJ:Tyk-4Ss8FVUC:
@@ -58,13 +62,13 @@ papers:
     title: 'SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection'
     year: '2025'
   xtgKwEoAAAAJ:UeHWp8X0CEIC:
-    citations: 29
+    citations: 28
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 20
-    title: 'Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis'
-    year: '2025'
+    citations: 27
+    title: 'Foundation models in autonomous driving: A survey on scenario generation and scenario analysis'
+    year: '2026'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
     citations: 10
     title: Impacts of ggv constraints formulations on online minimum-time vehicle trajectory planning
@@ -82,7 +86,7 @@ papers:
     title: 'Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?'
     year: '2025'
   xtgKwEoAAAAJ:YsMSGLbcyi4C:
-    citations: 15
+    citations: 16
     title: 'MPTree: A sampling-based vehicle motion planner for real-time obstacle avoidance'
     year: '2024'
   xtgKwEoAAAAJ:Zph67rFs4hoC:
@@ -126,10 +130,10 @@ papers:
     title: Localization and Control of Autonomous Vehicles in an Urban Intersection Scenario
     year: '2019'
   xtgKwEoAAAAJ:ufrVoPGSRksC:
-    citations: 3
+    citations: 5
     title: Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits
     year: '2025'
   xtgKwEoAAAAJ:zYLM7Y9cAGgC:
-    citations: 21
+    citations: 22
     title: Fast planning and tracking of complex autonomous parking maneuvers with optimal control and pseudo-neural networks
     year: '2023'
