@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-18'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 7
@@ -30,7 +30,7 @@ papers:
     title: PATH PLANNING AND CONTROL OF SELF-DRIVING VEHICLES AT THE LIMITS OF HANDLING
     year: Unknown Year
   xtgKwEoAAAAJ:IjCSPb-OGe4C:
-    citations: 26
+    citations: 27
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
@@ -66,7 +66,7 @@ papers:
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 29
+    citations: 30
     title: 'Foundation models in autonomous driving: A survey on scenario generation and scenario analysis'
     year: '2026'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
@@ -106,7 +106,7 @@ papers:
     title: How optimal is the minimum-time manoeuvre of an artificial race driver?
     year: '2025'
   xtgKwEoAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 2
     title: 'Safe Reinforcement Learning with a Predictive Safety Filter for Motion Planning and Control: A Drifting Vehicle Example'
     year: '2025'
   xtgKwEoAAAAJ:kNdYIx-mwKoC:
@@ -117,6 +117,10 @@ papers:
     citations: 0
     title: Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach
     year: Unknown Year
+  xtgKwEoAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving'
+    year: '2026'
   xtgKwEoAAAAJ:roLk4NBRz8UC:
     citations: 0
     title: Biasing the Driving Style of an Artificial Race Driver for Online Time-Optimal Maneuver Planning
