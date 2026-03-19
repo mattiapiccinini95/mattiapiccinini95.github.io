@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-06-25 15:59:00-0400
+date: 2026-03-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-:medal_sports: Best Paper Award Finalist at the [2025 IEEE Intelligent Vehicles Symposium (IV)](https://ieee-iv.org/2025/)! :car: 
+:robot: I am serving as Associate Editor for [IEEE ITSC](https://ieee-itsc.org/2026/) and [IEEE IROS](https://2026.ieee-iros.org)! :robot:

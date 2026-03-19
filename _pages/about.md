@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 8 # leave blank to include all the news in the `_news` folder
+  limit: 20 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Mattia Piccinini, a TUM Global Post-doctoral Researcher at the <a href='https://www.mos.ed.tum.de/en/avs/home/'>Autonomous Vehicle Systems (AVS) Lab</a>, Technical University of Munich (TUM), Germany. 
+Hi! I am Mattia Piccinini, a [Humboldt Post-doctoral Fellow](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship) at the <a href='https://www.mos.ed.tum.de/en/avs/home/'>Autonomous Vehicle Systems (AVS) Lab</a>, Technical University of Munich (TUM), Germany. 
 
-My research lies at the intersection of **robotics**, **machine learning**, and **control** engineering. I develop algorithms for real-time trajectory planning, control, and estimation of autonomous robots, with a focus on **ground vehicles** in uncertain, dynamic environments. 
+My research lies at the intersection of **robotics**, **machine learning**, and **control**. I develop algorithms for real-time trajectory planning, control, and estimation of autonomous robots, with a focus on **ground vehicles** in uncertain, dynamic environments. 
 I like to integrate prior knowledge of the robot dynamics into learning-based methods, such as neural networks, to enhance their **generalization to unseen scenarios** with minimal training data.
 
 A 3-minute video presentation of my Ph.D. research is available [here](https://youtu.be/sdoO9i480ZY).
