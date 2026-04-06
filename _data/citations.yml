@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-04-06'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
-    citations: 7
+    citations: 8
     title: 'From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios'
     year: '2025'
   xtgKwEoAAAAJ:2osOgNQ5qMEC:
@@ -13,6 +13,10 @@ papers:
     citations: 1
     title: 'Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning'
     year: '2025'
+  xtgKwEoAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: 'FBGA: a Forward-Backward Method for Online Time-Optimal Velocity Planning with Generic Acceleration Constraints'
+    year: '2026'
   xtgKwEoAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: 'EVO-MPCC: Enhanced Velocity Optimization with Learning-Based Auto-Tuning for Real-Time Vehicle Trajectory Planning'
@@ -34,11 +38,11 @@ papers:
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
-    citations: 1
+    citations: 2
     title: Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints
     year: '2025'
   xtgKwEoAAAAJ:LkGwnXOMwfcC:
-    citations: 1
+    citations: 2
     title: A Quasi-Steady-State Black Box Simulation Approach for the Generation of gggv Diagrams
     year: '2025'
   xtgKwEoAAAAJ:M3ejUd6NZC8C:
@@ -46,7 +50,7 @@ papers:
     title: 'Differentiable Weights-Varying Nonlinear MPC via Gradient-based Policy Learning: An Autonomous Vehicle Guidance Example'
     year: '2026'
   xtgKwEoAAAAJ:MXK_kJrjxJIC:
-    citations: 1
+    citations: 2
     title: Enhancing Physical Consistency in Lightweight World Models
     year: '2025'
   xtgKwEoAAAAJ:Se3iqnhoufwC:
@@ -58,7 +62,7 @@ papers:
     title: Artificial drivers for online time-optimal vehicle trajectory planning and control
     year: '2024'
   xtgKwEoAAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: 'SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection'
     year: '2025'
   xtgKwEoAAAAJ:UeHWp8X0CEIC:
@@ -66,27 +70,31 @@ papers:
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 30
+    citations: 36
     title: 'Foundation models in autonomous driving: A survey on scenario generation and scenario analysis'
     year: '2026'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
-    citations: 11
+    citations: 12
     title: Impacts of ggv constraints formulations on online minimum-time vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:WF5omc3nYNoC:
-    citations: 14
+    citations: 15
     title: Computationally efficient minimum-time motion primitives for vehicle trajectory planning
     year: '2024'
+  xtgKwEoAAAAJ:Wp0gIr-vW9MC:
+    citations: 0
+    title: 'Towards Whole-Body VLA: A Scalable Data Collection Framework for Quadrupedal Mobile Manipulators'
+    year: '2026'
   xtgKwEoAAAAJ:Y0pCki6q_DkC:
     citations: 11
     title: 'Reinforcement Learning and Optimal Control: A Hybrid Collision Avoidance Approach'
     year: '2024'
   xtgKwEoAAAAJ:YOwf2qJgpHMC:
-    citations: 0
+    citations: 2
     title: 'Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?'
     year: '2025'
   xtgKwEoAAAAJ:YsMSGLbcyi4C:
-    citations: 16
+    citations: 17
     title: 'MPTree: A sampling-based vehicle motion planner for real-time obstacle avoidance'
     year: '2024'
   xtgKwEoAAAAJ:Zph67rFs4hoC:
@@ -101,8 +109,12 @@ papers:
     citations: 0
     title: Google Custom Search
     year: Unknown Year
+  xtgKwEoAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: 'Bridging the Loco-Manipulation Disconnect: Dynamic Whole-Body Impulse Control on Floating-Base Robots'
+    year: '2026'
   xtgKwEoAAAAJ:eQOLeE2rZwMC:
-    citations: 14
+    citations: 15
     title: How optimal is the minimum-time manoeuvre of an artificial race driver?
     year: '2025'
   xtgKwEoAAAAJ:hqOjcs7Dif8C:
@@ -110,7 +122,7 @@ papers:
     title: 'Safe Reinforcement Learning with a Predictive Safety Filter for Motion Planning and Control: A Drifting Vehicle Example'
     year: '2025'
   xtgKwEoAAAAJ:kNdYIx-mwKoC:
-    citations: 1
+    citations: 2
     title: 'NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving'
     year: '2025'
   xtgKwEoAAAAJ:qjMakFHDy7sC:
@@ -138,6 +150,6 @@ papers:
     title: Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits
     year: '2025'
   xtgKwEoAAAAJ:zYLM7Y9cAGgC:
-    citations: 22
+    citations: 24
     title: Fast planning and tracking of complex autonomous parking maneuvers with optimal control and pseudo-neural networks
     year: '2023'
