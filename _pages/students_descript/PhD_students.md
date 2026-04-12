@@ -24,6 +24,12 @@ Co-supervised with [Prof. Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/p
 *Institution* : [Autonomous Vehicle Systems lab, Technical University of Munich](https://www.mos.ed.tum.de/en/avs/home/), Germany<br>
 Co-supervised with [Prof. Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
 
+#### Alexander Langmann (2024 -- present)
+
+*Topic* : Sampling-based trajectory planning for autonomous vehicles<br>
+*Institution* : [Autonomous Vehicle Systems lab, Technical University of Munich](https://www.mos.ed.tum.de/en/avs/home/), Germany<br>
+Co-supervised with [Prof. Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
+
 #### Ann-Kathrin Schwehn (2024 -- present)
 
 *Topic* : Optimization-based trajectory planning for autonomous racing<br>
