@@ -6,17 +6,18 @@
 *Institution* : [Politecnico di Milano](https://www.polimi.it), Italy<br> 
 Co-supervised with [Dr. Stefano Arrigoni](https://www.mecc.polimi.it/it/personale/stefano.arrigoni)
 
-#### Simone Dario (2025 -- present)
-
-*Title* : Combining Reinforcement Learning and Differentiable Model Predictive Control<br>
-*Institution* : [Università di Verona](https://www.univr.it), Italy<br> 
-Co-supervised with [Prof. Alessandro Farinelli](https://www.di.univr.it/?ent=persona&id=6499#tab-presentazione)
-
 #### Gabriele Tonelli (2025 -- present)
 
 *Title* : Model-structured neural networks to model the vehicle dynamics of race cars<br>
 *Institution* : [Department of Industrial Engineering, University of Trento](https://www.dii.unitn.it/en), Italy<br> 
 Co-supervised with [Prof. Gastone Pietro Rosati Papini](https://tonegas.it)
+
+#### Simone Dario (2026)
+
+*Title* : A Hybrid Framework Combining Model Predictive Control and Reinforcement Learning for Autonomous Racing Vehicles<br>
+*Institution* : [Università di Verona](https://www.univr.it), Italy<br> 
+Co-supervised with [Prof. Alessandro Farinelli](https://www.di.univr.it/?ent=persona&id=6499#tab-presentazione)<br> 
+[Thesis PDF](https://drive.google.com/file/d/1vOGrTcNrwxNCbK6tjLlhm_idZgQ29FCo/view?usp=sharing)
 
 #### Patrick Zambiasi (2025)
 
