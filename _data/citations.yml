@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-29'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 9
@@ -29,6 +29,10 @@ papers:
     citations: 0
     title: Model-Structured Neural Networks to Control the Steering Dynamics of Autonomous Race Cars
     year: '2025'
+  xtgKwEoAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: Vehicle Dynamics Learning from Physics Priors with Model-Structured Neural Networks
+    year: '2026'
   xtgKwEoAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: PATH PLANNING AND CONTROL OF SELF-DRIVING VEHICLES AT THE LIMITS OF HANDLING
@@ -42,7 +46,7 @@ papers:
     title: Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints
     year: '2025'
   xtgKwEoAAAAJ:LkGwnXOMwfcC:
-    citations: 2
+    citations: 3
     title: A Quasi-Steady-State Black Box Simulation Approach for the Generation of gggv Diagrams
     year: '2025'
   xtgKwEoAAAAJ:M3ejUd6NZC8C:
@@ -50,9 +54,13 @@ papers:
     title: 'Differentiable Weights-Varying Nonlinear MPC via Gradient-based Policy Learning: An Autonomous Vehicle Guidance Example'
     year: '2026'
   xtgKwEoAAAAJ:MXK_kJrjxJIC:
-    citations: 3
+    citations: 4
     title: Enhancing Physical Consistency in Lightweight World Models
     year: '2025'
+  xtgKwEoAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: A Multi-Stage Time-Variant Motion Planner for Agile Autonomous Driving Maneuvers
+    year: '2026'
   xtgKwEoAAAAJ:Se3iqnhoufwC:
     citations: 3
     title: A Road Friction-Aware Anti-Lock Braking System Based on Model-Structured Neural Networks
@@ -70,15 +78,15 @@ papers:
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 37
+    citations: 42
     title: 'Foundation models in autonomous driving: A survey on scenario generation and scenario analysis'
     year: '2026'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 13
     title: Impacts of ggv constraints formulations on online minimum-time vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:WF5omc3nYNoC:
-    citations: 15
+    citations: 16
     title: Computationally efficient minimum-time motion primitives for vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:Wp0gIr-vW9MC:
@@ -86,7 +94,7 @@ papers:
     title: 'Towards Whole-Body VLA: A Scalable Data Collection Framework for Quadrupedal Mobile Manipulators'
     year: '2026'
   xtgKwEoAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 12
     title: 'Reinforcement Learning and Optimal Control: A Hybrid Collision Avoidance Approach'
     year: '2024'
   xtgKwEoAAAAJ:YOwf2qJgpHMC:
@@ -94,7 +102,7 @@ papers:
     title: 'Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?'
     year: '2025'
   xtgKwEoAAAAJ:YsMSGLbcyi4C:
-    citations: 17
+    citations: 18
     title: 'MPTree: A sampling-based vehicle motion planner for real-time obstacle avoidance'
     year: '2024'
   xtgKwEoAAAAJ:Zph67rFs4hoC:
@@ -150,10 +158,10 @@ papers:
     title: Localization and Control of Autonomous Vehicles in an Urban Intersection Scenario
     year: '2019'
   xtgKwEoAAAAJ:ufrVoPGSRksC:
-    citations: 5
+    citations: 7
     title: Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits
     year: '2025'
   xtgKwEoAAAAJ:zYLM7Y9cAGgC:
-    citations: 24
+    citations: 25
     title: Fast planning and tracking of complex autonomous parking maneuvers with optimal control and pseudo-neural networks
     year: '2023'
