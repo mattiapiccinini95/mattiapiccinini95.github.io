@@ -11,6 +11,10 @@ profiles:
     image: 
     content: students_descript/PhD_students.md
     image_circular: false # crops the image to make it circular
+  - align: right
+    image: 
+    content: students_descript/visiting_PhD_students.md
+    image_circular: false # crops the image to make it circular
   - align: left
     image: 
     content: students_descript/Master_students.md

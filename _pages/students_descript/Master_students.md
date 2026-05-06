@@ -1,5 +1,17 @@
 # Master's Students
 
+#### Meihan Yang (2026 -- present)
+
+*Title* : Physics-informed Diffusion Models for Autonomous Driving<br>
+*Institution* : [Technical University of Munich](https://www.mos.ed.tum.de/en/avs/home/), Germany<br> 
+Co-supervised with [Dingrui Wang](https://github.com/Dingrui-Wang) and Prof. [Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
+
+### Guglielmo Cattaneo (2026 -- present)
+
+*Title* : Learning-based Trajectory Planning with Differentiable Model Predictive Control<br>
+*Institution* : [Politecnico di Milano](https://www.polimi.it), Italy<br> 
+Co-supervised with Prof. [Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
+
 #### Luca Bordin (2025 -- present)
 
 *Title* : Impact of Vehicle Model Complexity on Time-Optimal Trajectory Planning<br>
