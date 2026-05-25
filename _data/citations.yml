@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-25'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 9
     title: 'From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios'
     year: '2025'
   xtgKwEoAAAAJ:2osOgNQ5qMEC:
-    citations: 28
+    citations: 29
     title: A predictive neural hierarchical framework for on-line time-optimal motion planning and control of black-box vehicle models
     year: '2023'
   xtgKwEoAAAAJ:3fE2CSJIrl8C:
@@ -30,7 +30,7 @@ papers:
     title: Multidirectional Gaussian-process tire models for Kalman filtering in vehicle dynamics state estimation
     year: '2026'
   xtgKwEoAAAAJ:8k81kl-MbHgC:
-    citations: 1
+    citations: 2
     title: Model-Structured Neural Networks to Control the Steering Dynamics of Autonomous Race Cars
     year: '2025'
   xtgKwEoAAAAJ:9ZlFYXVOiuMC:
@@ -46,16 +46,20 @@ papers:
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
-    citations: 2
+    citations: 3
     title: Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints
     year: '2025'
+  xtgKwEoAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: 'Trajectory Planning and Control near the Limits: an Open Experimental Benchmark on the RoboRacer Platform'
+    year: '2026'
   xtgKwEoAAAAJ:LkGwnXOMwfcC:
     citations: 3
     title: A Quasi-Steady-State Black Box Simulation Approach for the Generation of gggv Diagrams
     year: '2025'
   xtgKwEoAAAAJ:M3ejUd6NZC8C:
-    citations: 1
-    title: 'Differentiable Weights-Varying Nonlinear MPC via Gradient-Based Policy Learning: An Autonomous Vehicle Guidance Example'
+    citations: 3
+    title: 'Differentiable Weights-Varying Nonlinear MPC via Gradient-based Policy Learning: An Autonomous Vehicle Guidance Example'
     year: '2026'
   xtgKwEoAAAAJ:MXK_kJrjxJIC:
     citations: 4
@@ -66,7 +70,7 @@ papers:
     title: A Multi-Stage Time-Variant Motion Planner for Agile Autonomous Driving Maneuvers
     year: '2026'
   xtgKwEoAAAAJ:Se3iqnhoufwC:
-    citations: 5
+    citations: 6
     title: A Road Friction-Aware Anti-Lock Braking System Based on Model-Structured Neural Networks
     year: '2025'
   xtgKwEoAAAAJ:Tyk-4Ss8FVUC:
@@ -78,11 +82,11 @@ papers:
     title: 'SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection'
     year: '2025'
   xtgKwEoAAAAJ:UeHWp8X0CEIC:
-    citations: 29
+    citations: 30
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 51
+    citations: 50
     title: 'Foundation models in autonomous driving: A survey on scenario generation and scenario analysis'
     year: '2026'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
@@ -98,7 +102,7 @@ papers:
     title: 'Towards Whole-Body VLA: A Scalable Data Collection Framework for Quadrupedal Mobile Manipulators'
     year: '2026'
   xtgKwEoAAAAJ:Y0pCki6q_DkC:
-    citations: 13
+    citations: 14
     title: 'Reinforcement Learning and Optimal Control: A Hybrid Collision Avoidance Approach'
     year: '2024'
   xtgKwEoAAAAJ:YOwf2qJgpHMC:
@@ -130,7 +134,7 @@ papers:
     title: 'EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving'
     year: '2026'
   xtgKwEoAAAAJ:eQOLeE2rZwMC:
-    citations: 16
+    citations: 17
     title: How optimal is the minimum-time manoeuvre of an artificial race driver?
     year: '2025'
   xtgKwEoAAAAJ:hqOjcs7Dif8C:
@@ -166,7 +170,7 @@ papers:
     title: Localization and Control of Autonomous Vehicles in an Urban Intersection Scenario
     year: '2019'
   xtgKwEoAAAAJ:ufrVoPGSRksC:
-    citations: 7
+    citations: 8
     title: Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits
     year: '2025'
   xtgKwEoAAAAJ:zYLM7Y9cAGgC:
