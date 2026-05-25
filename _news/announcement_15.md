@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:book: 1 Paper accepted by the [Vehicle System Dynamics Journal](https://www.tandfonline.com/journals/nvsd20)!
+:book: 1 Paper accepted by the [Vehicle System Dynamics Journal](https://www.tandfonline.com/journals/nvsd20)! Read it [here](https://www.tandfonline.com/doi/full/10.1080/00423114.2026.2665407).
