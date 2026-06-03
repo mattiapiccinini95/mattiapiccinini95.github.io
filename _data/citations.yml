@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-03'
 papers:
   xtgKwEoAAAAJ:0EnyYjriUFMC:
     citations: 9
     title: 'From Words to Collisions: LLM-Guided Evaluation and Adversarial Generation of Safety-Critical Driving Scenarios'
     year: '2025'
   xtgKwEoAAAAJ:2osOgNQ5qMEC:
-    citations: 29
+    citations: 30
     title: A predictive neural hierarchical framework for on-line time-optimal motion planning and control of black-box vehicle models
     year: '2023'
   xtgKwEoAAAAJ:3fE2CSJIrl8C:
@@ -18,7 +18,7 @@ papers:
     title: 'FBGA: a Forward-Backward Method for Online Time-Optimal Velocity Planning with Generic Acceleration Constraints'
     year: '2026'
   xtgKwEoAAAAJ:4TOpqqG69KYC:
-    citations: 0
+    citations: 1
     title: 'EVO-MPCC: Enhanced Velocity Optimization with Learning-Based Auto-Tuning for Real-Time Vehicle Trajectory Planning'
     year: Unknown Year
   xtgKwEoAAAAJ:5nxA0vEk-isC:
@@ -30,7 +30,7 @@ papers:
     title: Multidirectional Gaussian-process tire models for Kalman filtering in vehicle dynamics state estimation
     year: '2026'
   xtgKwEoAAAAJ:8k81kl-MbHgC:
-    citations: 2
+    citations: 3
     title: Model-Structured Neural Networks to Control the Steering Dynamics of Autonomous Race Cars
     year: '2025'
   xtgKwEoAAAAJ:9ZlFYXVOiuMC:
@@ -41,12 +41,16 @@ papers:
     citations: 0
     title: PATH PLANNING AND CONTROL OF SELF-DRIVING VEHICLES AT THE LIMITS OF HANDLING
     year: Unknown Year
+  xtgKwEoAAAAJ:IWHjjKOFINEC:
+    citations: 0
+    title: 'EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving'
+    year: '2026'
   xtgKwEoAAAAJ:IjCSPb-OGe4C:
     citations: 31
     title: Robust and sample-efficient estimation of vehicle lateral velocity using neural networks with explainable structure informed by kinematic principles
     year: '2023'
   xtgKwEoAAAAJ:KlAtU1dfN6UC:
-    citations: 3
+    citations: 4
     title: Real-Time Velocity Profile Optimization for Time-Optimal Maneuvering With Generic Acceleration Constraints
     year: '2025'
   xtgKwEoAAAAJ:L8Ckcad2t8MC:
@@ -54,15 +58,15 @@ papers:
     title: 'Trajectory Planning and Control near the Limits: an Open Experimental Benchmark on the RoboRacer Platform'
     year: '2026'
   xtgKwEoAAAAJ:LkGwnXOMwfcC:
-    citations: 3
+    citations: 4
     title: A Quasi-Steady-State Black Box Simulation Approach for the Generation of gggv Diagrams
     year: '2025'
   xtgKwEoAAAAJ:M3ejUd6NZC8C:
-    citations: 3
+    citations: 4
     title: 'Differentiable Weights-Varying Nonlinear MPC via Gradient-based Policy Learning: An Autonomous Vehicle Guidance Example'
     year: '2026'
   xtgKwEoAAAAJ:MXK_kJrjxJIC:
-    citations: 4
+    citations: 6
     title: Enhancing Physical Consistency in Lightweight World Models
     year: '2025'
   xtgKwEoAAAAJ:QIV2ME_5wuYC:
@@ -70,7 +74,7 @@ papers:
     title: A Multi-Stage Time-Variant Motion Planner for Agile Autonomous Driving Maneuvers
     year: '2026'
   xtgKwEoAAAAJ:Se3iqnhoufwC:
-    citations: 6
+    citations: 7
     title: A Road Friction-Aware Anti-Lock Braking System Based on Model-Structured Neural Networks
     year: '2025'
   xtgKwEoAAAAJ:Tyk-4Ss8FVUC:
@@ -82,19 +86,19 @@ papers:
     title: 'SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection'
     year: '2025'
   xtgKwEoAAAAJ:UeHWp8X0CEIC:
-    citations: 30
+    citations: 31
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 50
+    citations: 56
     title: 'Foundation models in autonomous driving: A survey on scenario generation and scenario analysis'
     year: '2026'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 14
     title: Impacts of ggv constraints formulations on online minimum-time vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:WF5omc3nYNoC:
-    citations: 17
+    citations: 18
     title: Computationally efficient minimum-time motion primitives for vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:Wp0gIr-vW9MC:
@@ -107,12 +111,16 @@ papers:
     year: '2024'
   xtgKwEoAAAAJ:YOwf2qJgpHMC:
     citations: 3
-    title: 'Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?'
+    title: 'Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?'
     year: '2025'
   xtgKwEoAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 19
     title: 'MPTree: A sampling-based vehicle motion planner for real-time obstacle avoidance'
     year: '2024'
+  xtgKwEoAAAAJ:ZeXyd9-uunAC:
+    citations: 0
+    title: Benchmarking Empirical and Learning-Based Approaches for Feedforward Steering Control in Autonomous Racing
+    year: '2026'
   xtgKwEoAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: Reinforcement Learning-based Dynamic Adaptation for Sampling-Based Motion Planning in Agile Autonomous Driving
@@ -134,7 +142,7 @@ papers:
     title: 'EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving'
     year: '2026'
   xtgKwEoAAAAJ:eQOLeE2rZwMC:
-    citations: 17
+    citations: 18
     title: How optimal is the minimum-time manoeuvre of an artificial race driver?
     year: '2025'
   xtgKwEoAAAAJ:hqOjcs7Dif8C:
@@ -146,9 +154,13 @@ papers:
     title: 'NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving'
     year: '2026'
   xtgKwEoAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study
     year: '2026'
+  xtgKwEoAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: 'FBGA: Fast and Flexible Velocity Planning for Time-Optimal Maneuvers'
+    year: '2025'
   xtgKwEoAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Real-time Autonomous Parking in Unstructured Scenarios with an Indirect Optimal Control Approach
@@ -170,7 +182,7 @@ papers:
     title: Localization and Control of Autonomous Vehicles in an Urban Intersection Scenario
     year: '2019'
   xtgKwEoAAAAJ:ufrVoPGSRksC:
-    citations: 8
+    citations: 9
     title: Kineto-Dynamical Planning and Accurate Execution of Minimum-Time Maneuvers on Three-Dimensional Circuits
     year: '2025'
   xtgKwEoAAAAJ:zYLM7Y9cAGgC:
