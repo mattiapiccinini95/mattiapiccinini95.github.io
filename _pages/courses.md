@@ -9,6 +9,10 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: course_PhD_PIML.jpeg
+    content: courses_descript/course_PhD_PIML.md
+    image_circular: false # crops the image to make it circular
   - align: right
     image: course_EIT_VDPC.pdf
     content: courses_descript/course_EIT_VDPC.md
