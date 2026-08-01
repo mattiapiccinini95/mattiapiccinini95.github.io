@@ -1,24 +1,18 @@
 # Master's Students
 
-#### Meihan Yang (2026 -- present)
-
-*Title* : Physics-informed Diffusion Models for Autonomous Driving<br>
-*Institution* : [Technical University of Munich](https://www.mos.ed.tum.de/en/avs/home/), Germany<br> 
-Co-supervised with [Dingrui Wang](https://github.com/Dingrui-Wang) and Prof. [Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
-
 ### Guglielmo Cattaneo (2026 -- present)
 
 *Title* : Learning-based Trajectory Planning with Differentiable Model Predictive Control<br>
 *Institution* : [Politecnico di Milano](https://www.polimi.it), Italy<br> 
 Co-supervised with Prof. [Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
 
-#### Luca Bordin (2025 -- present)
+#### Luca Bordin (2026 -- present)
 
 *Title* : Impact of Vehicle Model Complexity on Time-Optimal Trajectory Planning<br>
 *Institution* : [Politecnico di Milano](https://www.polimi.it), Italy<br> 
 Co-supervised with [Dr. Stefano Arrigoni](https://www.mecc.polimi.it/it/personale/stefano.arrigoni)
 
-#### Gabriele Tonelli (2025 -- present)
+#### Gabriele Tonelli (2026)
 
 *Title* : Model-structured neural networks to model the vehicle dynamics of race cars<br>
 *Institution* : [Department of Industrial Engineering, University of Trento](https://www.dii.unitn.it/en), Italy<br> 
@@ -30,6 +24,12 @@ Co-supervised with [Prof. Gastone Pietro Rosati Papini](https://tonegas.it)
 *Institution* : [Università di Verona](https://www.univr.it), Italy<br> 
 Co-supervised with [Prof. Alessandro Farinelli](https://www.di.univr.it/?ent=persona&id=6499#tab-presentazione)<br> 
 [Thesis PDF](https://drive.google.com/file/d/1vOGrTcNrwxNCbK6tjLlhm_idZgQ29FCo/view?usp=sharing)
+
+#### Meihan Yang (2026)
+
+*Title* : Physics-informed Diffusion Models for Autonomous Driving<br>
+*Institution* : [Technical University of Munich](https://www.mos.ed.tum.de/en/avs/home/), Germany<br> 
+Co-supervised with [Dingrui Wang](https://github.com/Dingrui-Wang) and Prof. [Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
 
 #### Patrick Zambiasi (2025)
 
