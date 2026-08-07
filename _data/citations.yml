@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-07'
 papers:
   xtgKwEoAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -26,7 +26,7 @@ papers:
     title: 'EVO-MPCC: Enhanced Velocity Optimization with Learning-Based Auto-Tuning for Real-Time Vehicle Trajectory Planning'
     year: Unknown Year
   xtgKwEoAAAAJ:5nxA0vEk-isC:
-    citations: 1
+    citations: 2
     title: 'MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks'
     year: '2025'
   xtgKwEoAAAAJ:7PzlFSSx8tAC:
@@ -66,7 +66,7 @@ papers:
     title: A Quasi-Steady-State Black Box Simulation Approach for the Generation of gggv Diagrams
     year: '2025'
   xtgKwEoAAAAJ:M3ejUd6NZC8C:
-    citations: 11
+    citations: 12
     title: 'Differentiable weights-varying nonlinear MPC via gradient-based policy learning: An autonomous vehicle guidance example'
     year: '2026'
   xtgKwEoAAAAJ:MXK_kJrjxJIC:
@@ -98,11 +98,11 @@ papers:
     title: Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning
     year: '2026'
   xtgKwEoAAAAJ:UeHWp8X0CEIC:
-    citations: 34
+    citations: 35
     title: A physics-driven artificial agent for online time-optimal vehicle motion planning and control
     year: '2023'
   xtgKwEoAAAAJ:UebtZRa9Y70C:
-    citations: 82
+    citations: 83
     title: 'Foundation models in autonomous driving: A survey on scenario generation and scenario analysis'
     year: '2026'
   xtgKwEoAAAAJ:W7OEmFMy1HYC:
@@ -110,7 +110,7 @@ papers:
     title: Impacts of ggv constraints formulations on online minimum-time vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:WF5omc3nYNoC:
-    citations: 20
+    citations: 21
     title: Computationally efficient minimum-time motion primitives for vehicle trajectory planning
     year: '2024'
   xtgKwEoAAAAJ:Wp0gIr-vW9MC:
@@ -118,7 +118,7 @@ papers:
     title: 'Towards Whole-Body VLA: A Scalable Data Collection Framework for Quadrupedal Mobile Manipulators'
     year: '2026'
   xtgKwEoAAAAJ:Y0pCki6q_DkC:
-    citations: 14
+    citations: 15
     title: 'Reinforcement Learning and Optimal Control: A Hybrid Collision Avoidance Approach'
     year: '2024'
   xtgKwEoAAAAJ:YOwf2qJgpHMC:
@@ -149,12 +149,8 @@ papers:
     citations: 1
     title: 'EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving'
     year: '2026'
-  xtgKwEoAAAAJ:e5wmG9Sq2KIC:
-    citations: 0
-    title: 'Target-Bench: Can Video World Models Achieve Mapless Path Planning with Semantic Targets?'
-    year: '2025'
   xtgKwEoAAAAJ:eQOLeE2rZwMC:
-    citations: 22
+    citations: 23
     title: How optimal is the minimum-time manoeuvre of an artificial race driver?
     year: '2025'
   xtgKwEoAAAAJ:hC7cP41nSMkC:
@@ -170,7 +166,7 @@ papers:
     title: 'Safe Reinforcement Learning with a Predictive Safety Filter for Motion Planning and Control: A Drifting Vehicle Example'
     year: '2025'
   xtgKwEoAAAAJ:kNdYIx-mwKoC:
-    citations: 6
+    citations: 7
     title: 'NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving'
     year: '2026'
   xtgKwEoAAAAJ:mB3voiENLucC:
