@@ -14,19 +14,19 @@ profiles:
     content: courses_descript/course_PhD_PIML.md
     image_circular: false # crops the image to make it circular
   - align: right
-    image: course_EIT_VDPC.pdf
-    content: courses_descript/course_EIT_VDPC.md
-    image_circular: false # crops the image to make it circular
-  - align: left
     image: course_EROS.jpeg
     content: courses_descript/course_EROS.md
     image_circular: false # crops the image to make it circular
-  - align: right
+  - align: left
     image: course_MOPL.png
     content: courses_descript/course_MOPL.md
     image_circular: false # crops the image to make it circular
-  - align: left
+  - align: right
     image: RIG_logo.png
     content: courses_descript/RIG.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: course_EIT_VDPC.pdf
+    content: courses_descript/course_EIT_VDPC.md
     image_circular: false # crops the image to make it circular
 ---

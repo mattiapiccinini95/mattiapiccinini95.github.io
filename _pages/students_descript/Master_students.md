@@ -16,7 +16,8 @@ Co-supervised with [Dr. Stefano Arrigoni](https://www.mecc.polimi.it/it/personal
 
 *Title* : Model-structured neural networks to model the vehicle dynamics of race cars<br>
 *Institution* : [Department of Industrial Engineering, University of Trento](https://www.dii.unitn.it/en), Italy<br> 
-Co-supervised with [Prof. Gastone Pietro Rosati Papini](https://tonegas.it)
+Co-supervised with [Prof. Gastone Pietro Rosati Papini](https://tonegas.it)<br> 
+[Thesis PDF](https://drive.google.com/file/d/137W4rWQNWxBMMkfw4v3qlURs3tsw8efD/view?usp=sharing)
 
 #### Simone Dario (2026)
 
