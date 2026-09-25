@@ -35,3 +35,9 @@ Co-supervised with [Prof. Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/p
 *Topic* : Optimization-based trajectory planning for autonomous racing<br>
 *Institution* : [Autonomous Vehicle Systems lab, Technical University of Munich](https://www.mos.ed.tum.de/en/avs/home/), Germany<br>
 Co-supervised with [Prof. Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
+
+#### Sabrina Ciuffoletti (2026 -- present)
+
+*Topic* : Motion planning in mobile robotics<br>
+*Institution* : [Department of Industrial Engineering, University of Trento](https://www.dii.unitn.it/en), Italy<br>
+Co-supervised with [Prof. Gastone Pietro Rosati Papini](https://tonegas.it)
