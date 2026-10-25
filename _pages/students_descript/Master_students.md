@@ -6,11 +6,12 @@
 *Institution* : [Politecnico di Milano](https://www.polimi.it), Italy<br> 
 Co-supervised with Prof. [Johannes Betz](https://www.mos.ed.tum.de/en/avs/team/prof-dr-ing-johannes-betz/)
 
-#### Luca Bordin (2026 -- present)
+#### Luca Bordin (2026)
 
 *Title* : Impact of Vehicle Model Complexity on Time-Optimal Trajectory Planning<br>
 *Institution* : [Politecnico di Milano](https://www.polimi.it), Italy<br> 
-Co-supervised with [Dr. Stefano Arrigoni](https://www.mecc.polimi.it/it/personale/stefano.arrigoni)
+Co-supervised with [Dr. Stefano Arrigoni](https://www.mecc.polimi.it/it/personale/stefano.arrigoni)<br> 
+[Thesis PDF](https://drive.google.com/file/d/1dzKpaGVt5F0Yi4_h6fQ0Yy7y9wMNZQxY/view?usp=sharing)
 
 #### Gabriele Tonelli (2026)
 

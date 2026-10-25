@@ -1,5 +1,11 @@
 # Visiting PhD Students
 
+#### Marco Cortese (2026)
+
+*Topic* : Physics-Informed Neural Networks for Vehicle Dynamics Modeling and Control<br>
+*Institution* : [Università di Padova](https://www.unipd.it), Italy<br>
+Co-supervised with [Prof. Basilio Lenzo](https://www.unipd.it/contatti/basilio.lenzo)
+
 #### Gianluca Frison (2026)
 
 *Topic* : Sampling-based Motion Planning in Competitive Head-to-Head Autonomous Racing<br>
